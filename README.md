@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Guedes
 
-**`Desenvolvedor MainFrame/Python`**
+**`Desenvolvedor MainFrame/Cobol/Python`**
 
 Me chamo Gabriel Guedes, tenho 25 anos, e estou iniciando minha transição de carreira para a programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninter. Meus estudos hoje são voltados 100% para tecnologia. Obtenha mais informações através do meu LinkedIn,  "[Gabriel Guedes](https://www.linkedin.com/in/guedesbenevides/)" , ou me siga no Instagram com o perfil chamado  "[dev.guedes](https://www.instagram.com/dev.guedes/)".
 
